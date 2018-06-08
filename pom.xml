@@ -51,7 +51,7 @@
         </plugins>
     </build>
     <properties>
-        <browser>chrome</browser>
+        <browser>${browser}</browser>
     </properties>
 
 </project>
